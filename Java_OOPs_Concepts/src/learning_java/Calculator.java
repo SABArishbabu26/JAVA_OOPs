@@ -68,5 +68,6 @@ public class Calculator {
         System.out.println(resultFour);
         String resultFive = calculator.calculateUsingSwitch("modulus",a,b);
         System.out.println(resultFive);
+        System.out.println("2");
     }
 }
